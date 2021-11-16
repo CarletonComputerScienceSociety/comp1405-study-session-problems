@@ -17,7 +17,6 @@ def find_two_numbers_that_sum_to_target_easy(target, numbers):
     # if the two numbers that add up to the target are not in the list, return None
     return None
 
-
 def find_two_numbers_that_sum_to_target_complex(target, numbers):
     # Instantiate a dictionary to hold the numbers and their sum
     sum_dict = {}
